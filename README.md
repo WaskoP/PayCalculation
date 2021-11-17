@@ -1,7 +1,7 @@
 # PayCalculation
 CSV Importer, Tax Calculator, Pay Record Writer.
 
-Created with PyCharm. Imports payrole data in the form of a CSV file. Calculates tax rates based on different employee types and them exports the pay record data as a CSV file. Includes unit testing for each module.
+Created with PyCharm. Imports payrole data in the form of a CSV file. Calculates tax rates based on different employee types and then exports the pay record data as a CSV file. Includes unit testing for each module.
 
 To test, extract PayCalculation.zip to PyCharm project folder and open project within PyCharm. Run the main.py module to execute program.
 
